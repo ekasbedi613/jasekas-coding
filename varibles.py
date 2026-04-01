@@ -1,0 +1,5 @@
+print ("any sentence bla")
+print(69)
+print ("hello python \n")
+print ("hello",27)
+print ("dsfhvhdsfvk",end="$")
